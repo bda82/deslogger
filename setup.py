@@ -7,7 +7,7 @@ setuptools.setup(
     author_email='dmitry.bespalov@websailors.pro',
     description='Desire logger with ClickHouse Support',
     packages=setuptools.find_packages(),
-    url="https://github.com/bda82/deslogger"
+    url="https://github.com/bda82/deslogger",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
